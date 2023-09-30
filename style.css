@@ -1,0 +1,36 @@
+#camStream, #canvas {
+    opacity:0;
+    position:fixed;
+    top:0;
+    left:0;
+  }
+  
+  #canvasFinal {
+    margin:0 auto;
+    display:block;
+    min-width: 540px;
+    min-height: 480px;
+    background-image: url('https://lh3.googleusercontent.com/opBDNnhXBe1aiLOp3C9yatntR-8fQptvgDu8C1LSZM68khdJh6AQgIHdgWU_T80_2MBhQLjgrJwR6mY=w3840-h2160-rw-no');
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  body {
+    text-align: center;
+  }
+  
+  h1 {
+    text-align:center;
+    margin-top:50px;
+  }
+  
+  h1, p, h2, a {
+    font-family:'arial';
+    color:#0db204;
+  }
+  
+  p {
+    font-size:10pt;
+    font-style:italic;
+    color:rgb(1, 1, 7);
+  }
